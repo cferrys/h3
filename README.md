@@ -7,11 +7,6 @@ This repository contains a pipeline to generate Monet-style images using a Gener
 - **`requirements.txt`**: Dependencies list.
 - **`README.md`**: Project documentation.
 
-## Requirements
-Install dependencies with:
-```bash
-pip install -r requirements.txt
-```
 
 ## Usage
 
